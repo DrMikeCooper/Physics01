@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 76375121f2646054086a90791d4486fb
+timeCreated: 1465275885
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Foot_L
+    100004: Foot_R
+    100006: Forearm_L
+    100008: Forearm_R
+    100010: Hand_L
+    100012: Hand_R
+    100014: Head
+    100016: Head_001
+    100018: Index01_L
+    100020: Index01_R
+    100022: Index02_L
+    100024: Index02_R
+    100026: Index03_L
+    100028: Index03_R
+    100030: Little01_L
+    100032: Little01_R
+    100034: Little02_L
+    100036: Little02_R
+    100038: Little03_L
+    100040: Little03_R
+    100042: loco
+    100044: Lowerleg_L
+    100046: Lowerleg_R
+    100048: //RootNode
+    100050: Middle01_L
+    100052: Middle01_R
+    100054: Middle02_L
+    100056: Middle02_R
+    100058: Middle03_L
+    100060: Middle03_R
+    100062: Pelvis
+    100064: Ring01_L
+    100066: Ring01_R
+    100068: Ring02_L
+    100070: Ring02_R
+    100072: Ring03_L
+    100074: Ring03_R
+    100076: Shoulder_L
+    100078: Shoulder_R
+    100080: Spine01_001
+    100082: Spine02
+    100084: Thumb01_L
+    100086: Thumb01_R
+    100088: thumb02_L
+    100090: Thumb02_R
+    100092: Thumb03_L
+    100094: Thumb03_R
+    100096: Toe_L
+    100098: Toe_R
+    100100: Upperarm_L
+    100102: Upperarm_R
+    100104: Upperleg_L
+    100106: Upperleg_R
+    400000: Armature
+    400002: Foot_L
+    400004: Foot_R
+    400006: Forearm_L
+    400008: Forearm_R
+    400010: Hand_L
+    400012: Hand_R
+    400014: Head
+    400016: Head_001
+    400018: Index01_L
+    400020: Index01_R
+    400022: Index02_L
+    400024: Index02_R
+    400026: Index03_L
+    400028: Index03_R
+    400030: Little01_L
+    400032: Little01_R
+    400034: Little02_L
+    400036: Little02_R
+    400038: Little03_L
+    400040: Little03_R
+    400042: loco
+    400044: Lowerleg_L
+    400046: Lowerleg_R
+    400048: //RootNode
+    400050: Middle01_L
+    400052: Middle01_R
+    400054: Middle02_L
+    400056: Middle02_R
+    400058: Middle03_L
+    400060: Middle03_R
+    400062: Pelvis
+    400064: Ring01_L
+    400066: Ring01_R
+    400068: Ring02_L
+    400070: Ring02_R
+    400072: Ring03_L
+    400074: Ring03_R
+    400076: Shoulder_L
+    400078: Shoulder_R
+    400080: Spine01_001
+    400082: Spine02
+    400084: Thumb01_L
+    400086: Thumb01_R
+    400088: thumb02_L
+    400090: Thumb02_R
+    400092: Thumb03_L
+    400094: Thumb03_R
+    400096: Toe_L
+    400098: Toe_R
+    400100: Upperarm_L
+    400102: Upperarm_R
+    400104: Upperleg_L
+    400106: Upperleg_R
+    4300000: loco
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: loco
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 78
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Head
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Head/Head_001
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Index01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Index01_L/Index02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Index01_L/Index02_L/Index03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Little01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Little01_L/Little02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Little01_L/Little02_L/Little03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Middle01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Middle01_L/Middle02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Middle01_L/Middle02_L/Middle03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Ring01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Ring01_L/Ring02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Ring01_L/Ring02_L/Ring03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Thumb01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Thumb01_L/thumb02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Thumb01_L/thumb02_L/Thumb03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Index01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Index01_R/Index02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Index01_R/Index02_R/Index03_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Little01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Little01_R/Little02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Little01_R/Little02_R/Little03_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Middle01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Middle01_R/Middle02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Middle01_R/Middle02_R/Middle03_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Ring01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Ring01_R/Ring02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Ring01_R/Ring02_R/Ring03_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Thumb01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Thumb01_R/Thumb02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Thumb01_R/Thumb02_R/Thumb03_R
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_L
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_L/Lowerleg_L
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_L/Lowerleg_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_L/Lowerleg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_R
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_R/Lowerleg_R
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_R/Lowerleg_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_R/Lowerleg_R/Foot_R/Toe_R
+        weight: 1
+      - path: loco
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 88
+      lastFrame: 129
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Head
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Head/Head_001
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Index01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Index01_L/Index02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Index01_L/Index02_L/Index03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Little01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Little01_L/Little02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Little01_L/Little02_L/Little03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Middle01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Middle01_L/Middle02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Middle01_L/Middle02_L/Middle03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Ring01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Ring01_L/Ring02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Ring01_L/Ring02_L/Ring03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Thumb01_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Thumb01_L/thumb02_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_L/Upperarm_L/Forearm_L/Hand_L/Thumb01_L/thumb02_L/Thumb03_L
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Index01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Index01_R/Index02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Index01_R/Index02_R/Index03_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Little01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Little01_R/Little02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Little01_R/Little02_R/Little03_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Middle01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Middle01_R/Middle02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Middle01_R/Middle02_R/Middle03_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Ring01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Ring01_R/Ring02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Ring01_R/Ring02_R/Ring03_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Thumb01_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Thumb01_R/Thumb02_R
+        weight: 1
+      - path: Armature/Pelvis/Spine01_001/Spine02/Shoulder_R/Upperarm_R/Forearm_R/Hand_R/Thumb01_R/Thumb02_R/Thumb03_R
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_L
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_L/Lowerleg_L
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_L/Lowerleg_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_L/Lowerleg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_R
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_R/Lowerleg_R
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_R/Lowerleg_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis/Upperleg_R/Lowerleg_R/Foot_R/Toe_R
+        weight: 1
+      - path: loco
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
